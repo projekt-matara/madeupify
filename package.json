@@ -1,0 +1,14 @@
+{
+  "name": "madeupify",
+  "version": "1.0.0",
+  "description": "world's most pointless app",
+  "main": "app.js",
+  "author": "Alex Allen",
+  "license": "MIT",
+  "scripts" : {
+  	"start": "nodemon app.js"
+  },
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
+}
